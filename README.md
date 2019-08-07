@@ -1,6 +1,6 @@
 # AndroidDarkLightTheme
 
-![Alt Text](https://media.giphy.com/media/kE8ZlpCljWCnw2ng6Q/giphy.gif)
+![Alt Text](https://media.giphy.com/media/S5DV7lASRNNUdzM8Cm/giphy.gif)
 
 
 With the Arrival of the new version 23.2 of library support Android brings a new components that can enrich the user interface. There’s a new theme added to AppCompat in this release: Theme.AppCompat.DayNight.
