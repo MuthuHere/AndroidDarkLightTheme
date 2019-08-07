@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NightTheme</string>
+    <string name="action_settings">Settings</string>
+    <string name="mode_switch">Mode Switch</string>
+</resources>
